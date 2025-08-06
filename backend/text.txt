@@ -1,3 +1,1 @@
-hello im the fool
-do what I want and want what I do
-one two three
+This is a clean state of my git
